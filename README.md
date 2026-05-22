@@ -13,6 +13,16 @@ This repository packages a Parrot OS environment with commonly used security and
 - Security-lab tooling organization
 - Infrastructure documentation and setup hygiene
 
+## What I Learned
+
+- How to make a technical learning environment reproducible instead of depending on a fragile personal machine setup.
+- How Docker and CI/CD can make experimentation cleaner, safer, and easier to share.
+- How to describe security tooling responsibly, with clear boundaries around authorized use.
+
+## Recruiter Takeaway
+
+This project shows technical curiosity with operational discipline. I like learning powerful tools, but I also care about safe usage, documentation, repeatability, and the kind of structure that helps other people trust the work.
+
 ## Intended Use
 
 Use this project only in authorized lab, training, and defensive research contexts. It is not intended for unauthorized access, exploitation, or misuse.
